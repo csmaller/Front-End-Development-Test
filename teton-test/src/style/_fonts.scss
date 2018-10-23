@@ -1,0 +1,59 @@
+//WOFF
+@font-face {
+  font-family: "CircularStd-Book";
+  src: url('../assets/fonts/woff/CircularStd-Book.woff') format('woff');
+}
+
+@font-face {
+  font-family: "Compacta";
+  src: url('../assets/fonts/woff/CompactaBT-Roman.woff') format('woff');
+}
+
+@font-face {
+  font-family: "GraphikBold";
+  src: url('../assets/fonts/woff/Graphik-Bold.woff') format('woff');
+}
+
+@font-face {
+  font-family: "GraphikSemiBold";
+  src: url('../assets/fonts/woff/Graphik-Semibold.woff') format('woff');
+
+}
+
+@font-face {
+  font-family: "NittiBasicBlack";
+  src: url('../assets/fonts/woff/NittiBasic-Black.woff') format('woff');
+}
+
+
+//TTF
+@font-face {
+  font-family: "CircularStd-Book-ttf";
+  src: url('../assets/fonts/otf-ttf/CircularStd-Book.ttf') format('ttf');
+
+}
+
+@font-face {
+  font-family: "CompactaBT-Roman-ttf";
+  src: url('../assets/fonts/otf-ttf/CompactaBT-Roman.ttf') format('ttf');
+
+}
+
+@font-face {
+  font-family: "NittiBasic-Black-ttf";
+  src: url('../assets/fonts/otf-ttf/NittiBasic-Black.ttf') format('ttf');
+
+}
+
+//OTF
+@font-face {
+  font-family: "Graphik-Bold-otf";
+  src: url('../assets/fonts/otf-ttf/Graphik-Bold.otf') format('otf');
+
+}
+
+@font-face {
+  font-family: "Graphik-Semibold-otf";
+  src: url('../assets/fonts/otf-ttf/Graphik-Semibold.otf') format('otf');
+  font-weight:100;
+}

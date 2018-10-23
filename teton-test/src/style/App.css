@@ -1,0 +1,97 @@
+@font-face {
+  font-family: "CircularStd-Book";
+  src: url("../assets/fonts/woff/CircularStd-Book.woff") format("woff"); }
+@font-face {
+  font-family: "Compacta";
+  src: url("../assets/fonts/woff/CompactaBT-Roman.woff") format("woff"); }
+@font-face {
+  font-family: "GraphikBold";
+  src: url("../assets/fonts/woff/Graphik-Bold.woff") format("woff"); }
+@font-face {
+  font-family: "GraphikSemiBold";
+  src: url("../assets/fonts/woff/Graphik-Semibold.woff") format("woff"); }
+@font-face {
+  font-family: "NittiBasicBlack";
+  src: url("../assets/fonts/woff/NittiBasic-Black.woff") format("woff"); }
+@font-face {
+  font-family: "CircularStd-Book-ttf";
+  src: url("../assets/fonts/otf-ttf/CircularStd-Book.ttf") format("ttf"); }
+@font-face {
+  font-family: "CompactaBT-Roman-ttf";
+  src: url("../assets/fonts/otf-ttf/CompactaBT-Roman.ttf") format("ttf"); }
+@font-face {
+  font-family: "NittiBasic-Black-ttf";
+  src: url("../assets/fonts/otf-ttf/NittiBasic-Black.ttf") format("ttf"); }
+@font-face {
+  font-family: "Graphik-Bold-otf";
+  src: url("../assets/fonts/otf-ttf/Graphik-Bold.otf") format("otf"); }
+@font-face {
+  font-family: "Graphik-Semibold-otf";
+  src: url("../assets/fonts/otf-ttf/Graphik-Semibold.otf") format("otf");
+  font-weight: 100; }
+html,
+body {
+  font-family: CircularStd-Book, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  height: 100%;
+  color: white;
+  margin: 0;
+  padding: 0;
+  cursor: pointer;
+  caret-color: white; }
+
+.pull-right {
+  text-align: right; }
+
+.App {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  text-align: center; }
+  .App .app-container {
+    display: inline-block;
+    width: 400px;
+    height: 860px;
+    background-image: url("../assets/img/iphone.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 371px 861px;
+    background-position-x: 10px;
+    margin: 0 auto; }
+    .App .app-container .container-display {
+      margin: 0 auto;
+      margin-top: 84px;
+      height: 667px;
+      width: 337px;
+      border: 1px solid red;
+      overflow: scroll; }
+      .App .app-container .container-display .main {
+        position: relative;
+        top: -35px; }
+        .App .app-container .container-display .main .app-logo {
+          position: absolute;
+          top: 60px;
+          left: 20%;
+          height: 110px;
+          margin: 0 auto;
+          z-index: 100; }
+        .App .app-container .container-display .main .slider {
+          height: 667px !important;
+          cursor: pointer; }
+          .App .app-container .container-display .main .slider .slider-control-centerright, .App .app-container .container-display .main .slider .slider-control-centerleft {
+            display: none; }
+          .App .app-container .container-display .main .slider .slider-control-bottomright, .App .app-container .container-display .main .slider .slider-control-bottomleft {
+            margin-left: 15px;
+            margin-right: 15px;
+            margin-bottom: 10px;
+            font-family: GraphikSemiBold;
+            letter-spacing: 1px; }
+            .App .app-container .container-display .main .slider .slider-control-bottomright .glyphicon, .App .app-container .container-display .main .slider .slider-control-bottomleft .glyphicon {
+              padding: 10px;
+              font-size: 15px; }
+
+@media (max-width: 450px) {
+  .App .app-container {
+    margin: 0 auto;
+    background-image: none; } }
+
+/*# sourceMappingURL=App.css.map */

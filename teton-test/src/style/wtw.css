@@ -1,0 +1,25 @@
+.wtw {
+  caret-color: red;
+  background-color: white;
+  color: black;
+  position: relative;
+  bottom: 0px;
+  display: inline-block;
+  text-align: left; }
+  .wtw ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-size: 0;
+    text-align: center;
+    background-color: white; }
+    .wtw ul li {
+      font-size: 16px;
+      display: inline;
+      float: left;
+      padding: 10px; }
+    .wtw ul .selected {
+      font-weight: bold;
+      font-size: 18px; }
+
+/*# sourceMappingURL=wtw.css.map */

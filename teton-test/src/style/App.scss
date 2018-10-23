@@ -1,0 +1,98 @@
+@import "_fonts";
+
+html,
+body {
+  font-family: CircularStd-Book, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  height: 100%;
+  color: white;
+  margin: 0;
+  padding: 0;
+  cursor:pointer;
+  caret-color:white;
+
+}
+
+.pull-right{
+  text-align:right;
+}
+
+
+.App {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+
+
+  .app-container {
+    display: inline-block;
+    width: 400px;
+    height: 860px;
+    background-image: url("../assets/img/iphone.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 371px 861px;
+    background-position-x: 10px;
+    margin: 0 auto;
+
+    .container-display {
+      margin: 0 auto;
+      margin-top: 84px;
+      height: 667px;
+      width: 337px;
+      border:1px solid red;
+      overflow:scroll;
+
+      .main{
+        position:relative;
+        top:-35px;
+
+        .app-logo{
+          position: absolute;
+          top: 60px;
+          left: 20%;
+          height: 110px;
+          margin: 0 auto;
+          z-index: 100;
+        }
+
+        .slider{
+          height:667px !important;
+          cursor:pointer;
+
+          .slider-control-centerright, .slider-control-centerleft{
+            display:none;
+          }
+
+          .slider-control-bottomright,.slider-control-bottomleft{
+              margin-left:15px;
+              margin-right:15px;
+            margin-bottom:10px;
+            font-family:GraphikSemiBold;
+            letter-spacing:1px;
+
+            .glyphicon{
+              padding:10px;
+              font-size:15px;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+@media(min-width: 451px) {
+
+}
+
+@media (max-width: 450px) {
+  .App {
+    .app-container {
+      margin: 0 auto;
+      background-image: none;
+    }
+  }
+}
+
+
