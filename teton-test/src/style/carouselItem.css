@@ -1,55 +1,59 @@
 .carousel-item {
-  height: 870px; }
+  width: 285px;
+  height: 870px;
+  display: block;
+  float: left;
+  margin-left: 5px;
+  margin-right: 5px;
+  overflow-x: hidden;
+  position: relative;
+  border-radius: 5px;
+  top: 10px;
+  text-align: center;
+  font-family: GraphikSemiBold; }
   .carousel-item img {
     height: 870px;
     width: auto; }
   .carousel-item .content-bg {
-    position: absolute;
-    padding-top: 90px;
-    top: 180px;
-    width: 84%;
+    position: relative;
     height: 870px;
-    left: 7%;
     background-color: white;
     opacity: .1; }
-  .carousel-item .content-overlay {
+  .carousel-item .play {
+    font-size: 50px;
     position: absolute;
-    padding-top: 90px;
-    border-radius: 5px;
+    top: 50px;
+    left: 42%;
+    margin-bottom: 60px; }
+  .carousel-item .genre {
+    position: absolute;
+    top: 150px;
+    left: 16%;
+    width: 70%;
+    height: 25px;
+    display: block;
+    margin: 0 auto;
+    font-family: Compacta;
+    padding-bottom: 0px; }
+    .carousel-item .genre label {
+      float: left;
+      font-size: 20px;
+      vertical-align: top; }
+    .carousel-item .genre .time {
+      font-weight: 100;
+      font-size: 15px;
+      line-height: 2.1em; }
+  .carousel-item p {
+    position: absolute;
+    width: 90%;
+    margin: 0 auto;
+    top: 300px;
+    left: 6%; }
+  .carousel-item h1 {
+    position: absolute;
     top: 180px;
-    width: 84%;
-    text-align: center;
-    left: 7%;
-    font-family: GraphikSemiBold; }
-    .carousel-item .content-overlay .play {
-      font-size: 50px;
-      display: block;
-      margin-bottom: 60px; }
-    .carousel-item .content-overlay .genre {
-      width: 60%;
-      height: 25px;
-      display: inline-block;
-      margin: 0 auto;
-      font-family: Compacta;
-      padding-bottom: 0px; }
-      .carousel-item .content-overlay .genre label {
-        float: left;
-        font-size: 20px;
-        vertical-align: top; }
-      .carousel-item .content-overlay .genre .time {
-        font-weight: 100;
-        font-size: 15px;
-        line-height: 2.1em; }
-    .carousel-item .content-overlay p {
-      width: 80%;
-      margin: 0 auto; }
-    .carousel-item .content-overlay h1 {
-      font-weight: bold;
-      font-family: GraphikBold;
-      font-size: 26px;
-      margin: 0 auto;
-      margin-top: 10px;
-      margin-bottom: 10px;
-      padding: 0px; }
+    margin: 0 auto;
+    left: 20px;
+    font-family: GraphikBold; }
 
 /*# sourceMappingURL=carouselItem.css.map */

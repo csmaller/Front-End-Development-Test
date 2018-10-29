@@ -1,25 +1,119 @@
 .wtw {
-  caret-color: red;
   background-color: white;
   color: black;
   position: relative;
-  bottom: 0px;
-  display: inline-block;
-  text-align: left; }
+  top: 0px;
+  bottom: -34px;
+  display: block;
+  text-align: left;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  min-height: 400px; }
+  .wtw h1 {
+    position: relative;
+    left: 20px; }
   .wtw ul {
+    position: relative;
     margin: 0;
     padding: 0;
+    left: 11px;
     list-style: none;
     font-size: 0;
-    text-align: center;
-    background-color: white; }
+    text-align: left;
+    position: relative;
+    min-height: 40px; }
     .wtw ul li {
-      font-size: 16px;
+      font-size: 14px;
       display: inline;
       float: left;
-      padding: 10px; }
+      padding: 10px;
+      color: #b6b6b6; }
     .wtw ul .selected {
       font-weight: bold;
-      font-size: 18px; }
+      font-size: 16px;
+      color: black; }
+  .wtw .wtw-content {
+    overflow: auto;
+    overflow-y: hidden;
+    display: block;
+    position: relative;
+    width: 367px;
+    height: 400px;
+    left: 0px; }
+    .wtw .wtw-content #wtw-container {
+      padding-top: 0px;
+      display: flex;
+      width: auto;
+      position: absolute;
+      height: 395px;
+      overflow: hidden;
+      left: 5px; }
+      .wtw .wtw-content #wtw-container .video-item {
+        top: 0px !important;
+        width: 280px;
+        border: none;
+        color: white;
+        height: auto;
+        overflow: hidden;
+        margin-left: 15px;
+        margin-right: 15px; }
+        .wtw .wtw-content #wtw-container .video-item .video-img {
+          width: 100%;
+          height: 387px; }
+        .wtw .wtw-content #wtw-container .video-item .synopsis {
+          position: absolute;
+          top: 248px;
+          left: 13px;
+          font-size: 18px;
+          text-align: left; }
+        .wtw .wtw-content #wtw-container .video-item .genre {
+          position: absolute;
+          top: 54%;
+          left: 4%;
+          width: 70%;
+          height: 25px;
+          display: block;
+          margin: 0 auto;
+          font-family: Compacta;
+          padding-bottom: 0px; }
+        .wtw .wtw-content #wtw-container .video-item .play {
+          left: 42%;
+          top: 30%; }
+        .wtw .wtw-content #wtw-container .video-item .vid-container {
+          height: auto;
+          width: 100%;
+          z-index: 1002;
+          position: absolute;
+          top: 0px;
+          left: 0px; }
+          .wtw .wtw-content #wtw-container .video-item .vid-container .close {
+            font-size: 20px;
+            color: black; }
+          .wtw .wtw-content #wtw-container .video-item .vid-container video {
+            height: 100%;
+            width: 100%; }
+      .wtw .wtw-content #wtw-container .landscape {
+        float: none;
+        margin-bottom: 10px; }
+        .wtw .wtw-content #wtw-container .landscape .play {
+          right: -110px;
+          top: 130px;
+          margin-bottom: 0px;
+          font-size: 35px; }
+        .wtw .wtw-content #wtw-container .landscape .genre {
+          top: 44%; }
+        .wtw .wtw-content #wtw-container .landscape .synopsis {
+          top: auto;
+          bottom: 18px;
+          width: 78%;
+          font-size: 17px;
+          line-height: 1; }
+        .wtw .wtw-content #wtw-container .landscape .video-img {
+          height: 187px; }
+    .wtw .wtw-content .slider {
+      height: 300px;
+      width: 600px;
+      position: relative;
+      left: 0px !important; }
 
 /*# sourceMappingURL=wtw.css.map */

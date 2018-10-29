@@ -16,6 +16,32 @@ body {
   text-align:right;
 }
 
+.swipe-container{
+  height: 675px;
+}
+
+#background-images{
+  height: 675px;
+  display: flex;
+  width: auto;
+  position: absolute;
+  left: -40px;
+  div{
+    width:375px;
+    height:675px;
+  }
+}
+#carousel-container{
+  position:absolute;
+  left: 20px;
+  height: 667px;
+  display: flex;
+  width: auto;
+  position: absolute;
+  padding-top: 170px;
+
+
+}
 
 .App {
   display: flex;
@@ -23,6 +49,12 @@ body {
   height: 100%;
   text-align: center;
 
+  h1 {
+    font-weight: bold;
+    font-family: GraphikSemiBold;
+    font-size: 24px;
+
+  }
 
   .app-container {
     display: inline-block;
@@ -40,12 +72,13 @@ body {
       margin-top: 84px;
       height: 667px;
       width: 337px;
-      border:1px solid red;
-      overflow:scroll;
+      overflow-x:hidden;
+      overflow-y:scroll;
 
       .main{
         position:relative;
         top:-35px;
+        height: 667px;
 
         .app-logo{
           position: absolute;
@@ -56,31 +89,94 @@ body {
           z-index: 100;
         }
 
-        .slider{
+        .slider, .wtwslider{
           height:667px !important;
           cursor:pointer;
-
-          .slider-control-centerright, .slider-control-centerleft{
-            display:none;
-          }
+          touch-action: none;
+          z-index: 1000 !important;
+          position: absolute;
+          top: 0px;
+          cursor:pointer;
+          z-index:100;
+          touch-action:none;
+          width:375px;
 
           .slider-control-bottomright,.slider-control-bottomleft{
-              margin-left:15px;
-              margin-right:15px;
-            margin-bottom:10px;
             font-family:GraphikSemiBold;
             letter-spacing:1px;
+            position: absolute;
+            bottom: 0px;
+            width:140px;
 
             .glyphicon{
               padding:10px;
               font-size:15px;
             }
           }
+
+          .slider-control-bottomright{
+            right:40px;
+          }
+          .slider-control-bottomleft{
+            left:0px;
+          }
         }
       }
     }
   }
 }
+
+.background-images{
+  width:auto;
+  height:667px;
+  position:absolute;
+  top:0px;
+  overflow:hidden;
+
+  div{
+    height:667px;
+    width:375px;
+  }
+}
+.imageStyle{
+  position:absolute;
+}
+.image-style{
+
+  width: 375px;
+  position: absolute;
+  height: 667px;
+  overflow-x: hidden;
+  left: 0px;
+
+}
+
+.float-right{
+  float: right !important;
+}
+
+.float-left{
+  float:left !important;
+}
+
+.fade-in{
+  opacity: 1;
+  animation-name: fadeInOpacity;
+  animation-iteration-count: 1;
+  animation-timing-function: ease-out;
+  animation-duration: 1s;
+}
+
+@keyframes fadeInOpacity {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+
 
 @media(min-width: 451px) {
 

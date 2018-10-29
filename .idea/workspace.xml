@@ -2,45 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d49c19c-ae74-406d-b35f-bcd640b0e61a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teton-test/public/android-chrome-192x192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teton-test/public/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teton-test/public/browserconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teton-test/public/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teton-test/public/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teton-test/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teton-test/public/mstile-150x150.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teton-test/public/safari-pinned-tab.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teton-test/public/site.webmanifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teton-test/src/component/CarouselItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teton-test/src/component/Nav.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teton-test/src/component/TopCarousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teton-test/src/component/VideoCarouselItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teton-test/src/component/WhatToWatch.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teton-test/src/style/_fonts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teton-test/src/style/carouselItem.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teton-test/src/style/nav.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teton-test/src/style/videoCarouselItem.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teton-test/src/style/wtw.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/57441.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/teton-test/src/assets/img/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/DSC06551.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/teton-test/src/assets/img/4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/alex-honnold-video.rtf" beforeDir="false" afterPath="$PROJECT_DIR$/teton-test/src/assets/alex-honnold-video.rtf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/cccdcc.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/teton-test/src/assets/img/3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/otf-ttf/CircularStd-Book.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/teton-test/src/assets/fonts/otf-ttf/CircularStd-Book.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/otf-ttf/CompactaBT-Roman.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/teton-test/src/assets/fonts/otf-ttf/CompactaBT-Roman.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/otf-ttf/Graphik-Bold.otf" beforeDir="false" afterPath="$PROJECT_DIR$/teton-test/src/assets/fonts/otf-ttf/Graphik-Bold.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/otf-ttf/Graphik-Semibold.otf" beforeDir="false" afterPath="$PROJECT_DIR$/teton-test/src/assets/fonts/otf-ttf/Graphik-Semibold.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/otf-ttf/NittiBasic-Black.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/teton-test/src/assets/fonts/otf-ttf/NittiBasic-Black.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/woff/CircularStd-Book.woff" beforeDir="false" afterPath="$PROJECT_DIR$/teton-test/src/assets/fonts/woff/CircularStd-Book.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/woff/CompactaBT-Roman.woff" beforeDir="false" afterPath="$PROJECT_DIR$/teton-test/src/assets/fonts/woff/CompactaBT-Roman.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/woff/Graphik-Bold.woff" beforeDir="false" afterPath="$PROJECT_DIR$/teton-test/src/assets/fonts/woff/Graphik-Bold.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/woff/Graphik-Semibold.woff" beforeDir="false" afterPath="$PROJECT_DIR$/teton-test/src/assets/fonts/woff/Graphik-Semibold.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/woff/NittiBasic-Black.woff" beforeDir="false" afterPath="$PROJECT_DIR$/teton-test/src/assets/fonts/woff/NittiBasic-Black.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/ss.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/teton-test/src/assets/img/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teton-test/src/assets/vids/alaskan-adventure.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/teton-test/src/assets/vids/griffin-dune.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/teton-test/src/assets/vids/jeremy-jones-journal.mp4" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/teton-test/public/vids/1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teton-test/public/vids/2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teton-test/public/vids/3.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teton-test/src/component/WTWItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teton-test/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/teton-test/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teton-test/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/teton-test/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teton-test/src/assets/img/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/teton-test/src/assets/img/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teton-test/src/assets/img/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/teton-test/src/assets/img/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teton-test/src/assets/img/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/teton-test/src/assets/img/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teton-test/src/assets/img/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/teton-test/src/assets/img/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teton-test/src/component/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/teton-test/src/component/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teton-test/src/component/CarouselItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/teton-test/src/component/CarouselItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teton-test/src/component/TopCarousel.js" beforeDir="false" afterPath="$PROJECT_DIR$/teton-test/src/component/TopCarousel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teton-test/src/component/WhatToWatch.js" beforeDir="false" afterPath="$PROJECT_DIR$/teton-test/src/component/WhatToWatch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teton-test/src/style/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/teton-test/src/style/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teton-test/src/style/App.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/teton-test/src/style/App.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teton-test/src/style/App.scss" beforeDir="false" afterPath="$PROJECT_DIR$/teton-test/src/style/App.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teton-test/src/style/carouselItem.css" beforeDir="false" afterPath="$PROJECT_DIR$/teton-test/src/style/carouselItem.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teton-test/src/style/carouselItem.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/teton-test/src/style/carouselItem.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teton-test/src/style/carouselItem.scss" beforeDir="false" afterPath="$PROJECT_DIR$/teton-test/src/style/carouselItem.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teton-test/src/style/wtw.css" beforeDir="false" afterPath="$PROJECT_DIR$/teton-test/src/style/wtw.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teton-test/src/style/wtw.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/teton-test/src/style/wtw.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teton-test/src/style/wtw.scss" beforeDir="false" afterPath="$PROJECT_DIR$/teton-test/src/style/wtw.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -54,8 +39,29 @@
       <file leaf-file-name="App.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/teton-test/src/style/App.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="51" column="16" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
+            <state relative-caret-position="740">
+              <caret line="93" column="25" selection-start-line="93" selection-start-column="25" selection-end-line="93" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TopCarousel.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/teton-test/src/component/TopCarousel.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="87" column="3" lean-forward="true" selection-start-line="87" selection-start-column="3" selection-end-line="93" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WhatToWatch.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/teton-test/src/component/WhatToWatch.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="27" lean-forward="true" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -63,8 +69,8 @@
       <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/teton-test/src/component/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+            <state relative-caret-position="656">
+              <caret line="72" column="21" selection-start-line="72" selection-start-column="21" selection-end-line="72" selection-end-column="21" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -72,35 +78,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WhatToWatch.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/teton-test/src/component/WhatToWatch.js">
+      <file leaf-file-name="WTWItem.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/teton-test/src/component/WTWItem.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="671">
-              <caret line="89" column="32" lean-forward="true" selection-start-line="89" selection-start-column="32" selection-end-line="89" selection-end-column="32" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CarouselItem.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/teton-test/src/component/CarouselItem.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="81" selection-start-line="17" selection-start-column="81" selection-end-line="17" selection-end-column="81" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="VideoCarouselItem.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/teton-test/src/component/VideoCarouselItem.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+            <state relative-caret-position="343">
+              <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -111,8 +93,17 @@
       <file leaf-file-name="carouselItem.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/teton-test/src/style/carouselItem.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+            <state relative-caret-position="703">
+              <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wtw.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/teton-test/src/style/wtw.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="489">
+              <caret line="108" selection-start-line="108" selection-end-line="108" />
             </state>
           </provider>
         </entry>
@@ -126,33 +117,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Nav.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/teton-test/src/component/Nav.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-              <folding>
-                <element signature="e#0#27#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TopCarousel.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/teton-test/src/component/TopCarousel.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="8" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>../../assets</find>
       <find>class</find>
+      <find>animation</find>
+      <find>container</find>
+      <find>setNext</find>
+      <find>h1</find>
+      <find>.slider</find>
+      <find>border:</find>
+      <find>border</find>
+      <find>video-item</find>
+      <find>.wtw-content</find>
+      <find>wtw-container</find>
+      <find>ANIMATE</find>
+      <find>.video-item</find>
+      <find>video</find>
+      <find>nextBg</find>
     </findStrings>
     <replaceStrings>
       <replace>../assets</replace>
@@ -167,20 +151,23 @@
         <option value="$PROJECT_DIR$/teton-test/src/style/fonts.scss" />
         <option value="$PROJECT_DIR$/teton-test/src/style/_fonts.scss" />
         <option value="$PROJECT_DIR$/teton-test/src/App.js" />
-        <option value="$PROJECT_DIR$/teton-test/package.json" />
-        <option value="$PROJECT_DIR$/teton-test/src/component/App.js" />
         <option value="$PROJECT_DIR$/teton-test/src/style/nav.scss" />
-        <option value="$PROJECT_DIR$/teton-test/src/style/wtw.scss" />
         <option value="$PROJECT_DIR$/teton-test/src/assets/data.json" />
         <option value="$PROJECT_DIR$/teton-test/src/component/Nav.js" />
         <option value="$PROJECT_DIR$/teton-test/public/index.html" />
-        <option value="$PROJECT_DIR$/teton-test/src/style/App.scss" />
-        <option value="$PROJECT_DIR$/teton-test/src/component/CarouselItem.js" />
-        <option value="$PROJECT_DIR$/teton-test/src/style/carouselItem.scss" />
         <option value="$PROJECT_DIR$/teton-test/src/style/videoCarouselItem.scss" />
-        <option value="$PROJECT_DIR$/teton-test/src/component/TopCarousel.js" />
         <option value="$PROJECT_DIR$/teton-test/src/component/VideoCarouselItem.js" />
+        <option value="$PROJECT_DIR$/teton-test/src/assets/data/data.json" />
+        <option value="$PROJECT_DIR$/teton-test/package.json" />
+        <option value="$PROJECT_DIR$/teton-test/src/component/CarouselItem.js" />
+        <option value="$PROJECT_DIR$/teton-test/src/style/App.scss" />
+        <option value="$PROJECT_DIR$/teton-test/src/component/TopCarousel.js" />
+        <option value="$PROJECT_DIR$/teton-test/src/style/carouselItem.css" />
+        <option value="$PROJECT_DIR$/teton-test/src/style/carouselItem.scss" />
+        <option value="$PROJECT_DIR$/teton-test/src/component/App.js" />
+        <option value="$PROJECT_DIR$/teton-test/src/style/wtw.scss" />
         <option value="$PROJECT_DIR$/teton-test/src/component/WhatToWatch.js" />
+        <option value="$PROJECT_DIR$/teton-test/src/component/WTWItem.js" />
       </list>
     </option>
   </component>
@@ -1976,9 +1963,8 @@
       <path value="$PROJECT_DIR$/teton-test/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="197" />
-    <option name="y" value="120" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="42" />
     <option name="width" value="1680" />
     <option name="height" value="960" />
   </component>
@@ -2015,22 +2001,21 @@
               <item name="Front-End-Development-Test" type="b2602c69:ProjectViewProjectNode" />
               <item name="Front-End-Development-Test" type="462c0819:PsiDirectoryNode" />
               <item name="teton-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Front-End-Development-Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Front-End-Development-Test" type="462c0819:PsiDirectoryNode" />
-              <item name="teton-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Front-End-Development-Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Front-End-Development-Test" type="462c0819:PsiDirectoryNode" />
-              <item name="teton-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
               <item name="vids" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Front-End-Development-Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Front-End-Development-Test" type="462c0819:PsiDirectoryNode" />
+              <item name="teton-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Front-End-Development-Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Front-End-Development-Test" type="462c0819:PsiDirectoryNode" />
+              <item name="teton-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Front-End-Development-Test" type="b2602c69:ProjectViewProjectNode" />
@@ -2062,6 +2047,10 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/teton-test/src/component" />
+      <recent name="$PROJECT_DIR$/teton-test/public" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/teton-test/public" />
       <recent name="$PROJECT_DIR$/teton-test/src/style" />
@@ -2135,15 +2124,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539972818681</updated>
-      <workItem from="1539972821404" duration="36422000" />
+      <workItem from="1539972821404" duration="83838000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36422000" />
+    <option name="totallyTimeSpent" value="83838000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="197" y="120" width="1680" height="960" extended-state="1" />
+    <frame x="0" y="42" width="1680" height="960" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="bottom" id="TODO" order="10" />
@@ -2153,9 +2143,9 @@
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.32998884" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.3297619" />
       <window_info anchor="bottom" id="Version Control" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32998884" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.30833334" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
       <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.24969475" />
@@ -2231,13 +2221,6 @@
     <entry file="file://$PROJECT_DIR$/teton-test/src/assets/img/1.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/teton-test/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/teton-test/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -2254,27 +2237,10 @@
     <entry file="file://$PROJECT_DIR$/jpg/tgr-dev-test.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/teton-test/src/style/wtw.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/teton-test/src/style/nav.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/teton-test/src/component/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2285,10 +2251,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/teton-test/public/index.html">
+    <entry file="file://$PROJECT_DIR$/teton-test/src/component/VideoCarouselItem.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        <state relative-caret-position="420">
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2302,23 +2271,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/teton-test/src/style/App.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="51" column="16" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/teton-test/src/component/CarouselItem.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="81" selection-start-line="17" selection-start-column="81" selection-end-line="17" selection-end-column="81" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/teton-test/src/style/videoCarouselItem.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -2326,34 +2278,102 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/teton-test/src/style/carouselItem.scss">
+    <entry file="file://$PROJECT_DIR$/teton-test/src/assets/img/1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teton-test/src/assets/img/2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teton-test/src/assets/data/data.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        <state relative-caret-position="120">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="8" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/teton-test/src/component/TopCarousel.js">
+    <entry file="file://$PROJECT_DIR$/teton-test/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="8" selection-end-column="42" />
+        <state relative-caret-position="180">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/teton-test/src/component/VideoCarouselItem.js">
+    <entry file="file://$PROJECT_DIR$/teton-test/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+        <state relative-caret-position="195">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teton-test/src/component/CarouselItem.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/teton-test/src/component/TopCarousel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="87" column="3" lean-forward="true" selection-start-line="87" selection-start-column="3" selection-end-line="93" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teton-test/src/style/App.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="93" column="25" selection-start-line="93" selection-start-column="25" selection-end-line="93" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teton-test/src/style/carouselItem.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="36" column="26" lean-forward="true" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teton-test/src/style/carouselItem.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teton-test/src/component/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="656">
+          <caret line="72" column="21" selection-start-line="72" selection-start-column="21" selection-end-line="72" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teton-test/src/style/wtw.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="108" selection-start-line="108" selection-end-line="108" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/teton-test/src/component/WhatToWatch.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="671">
-          <caret line="89" column="32" lean-forward="true" selection-start-line="89" selection-start-column="32" selection-end-line="89" selection-end-column="32" />
+        <state relative-caret-position="15">
+          <caret line="1" column="27" lean-forward="true" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teton-test/src/component/WTWItem.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>

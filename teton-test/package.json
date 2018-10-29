@@ -7,8 +7,10 @@
     "react-dom": "^16.5.2",
     "react-scripts": "2.0.5",
     "node-sass": "^4.9.4",
-    "nuka-carousel": "^4.4.1",
-    "react-bootstrap": "^0.32.4"
+    "react-bootstrap": "^0.32.4",
+    "react-swipeable": "^4.3.0",
+    "jquery": "^3.3.1",
+    "nuka-carousel": "^4.4.1"
   },
   "scripts": {
     "start": "react-scripts start",
