@@ -15,6 +15,7 @@ class App extends Component {
 
     data = [{
         img: One, barColor: "#009cff",
+        vid:"https://player.vimeo.com/video/297035893",
         genre: "snow",
         time: "4 min",
         title: "Alaskan Adventures",
@@ -22,6 +23,7 @@ class App extends Component {
     },
         {
             genre: "dirt",
+            vid:"https://player.vimeo.com/video/297035893",
             img: Two, barColor: "#ffc200",
             time: "7 min",
             title: "Alec Honnold Gives Talk on Yosemite Free Solo",
@@ -30,6 +32,7 @@ class App extends Component {
 
         {
             genre: "snow",
+            vid:"https://player.vimeo.com/video/297035893",
             time: "3 min",
             img: Three, barColor: "#009cff",
             title: "Griffin Dunn Shows Winter in NZ is not over",
@@ -38,6 +41,7 @@ class App extends Component {
 
         {
             genre: "snow",
+            vid:"https://player.vimeo.com/video/297035893",
             time: "2 min",
             img: Four, barColor: "#009cff",
             title: "Jeremy Jones' Journal: Silence in the HIgh Sierra",

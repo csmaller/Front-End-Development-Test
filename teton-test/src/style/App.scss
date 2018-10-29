@@ -118,7 +118,7 @@ body {
             right:40px;
           }
           .slider-control-bottomleft{
-            left:0px;
+            left:5px;
           }
         }
       }
@@ -142,13 +142,12 @@ body {
   position:absolute;
 }
 .image-style{
-
   width: 375px;
   position: absolute;
-  height: 667px;
+  height: 200px;
   overflow-x: hidden;
   left: 0px;
-
+  bottom: 0px;
 }
 
 .float-right{
@@ -174,12 +173,6 @@ body {
   100% {
     opacity: 1;
   }
-}
-
-
-
-@media(min-width: 451px) {
-
 }
 
 @media (max-width: 450px) {

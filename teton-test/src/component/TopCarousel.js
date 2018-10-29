@@ -10,11 +10,11 @@ import Swipeable from 'react-swipeable';
 
 let $ = require("jquery");
 const IMG_WIDTH = "375px";
-const IMG_HEIGHT = "667px";
+const IMG_HEIGHT = "50px";
 let IMAGES = [One, Two, Three, Four];
 const RIGHT = '-1';
 const LEFT = '+1';
-const FADE = 1000;
+const FADE = 500;
 
 class TopCarousel extends React.Component {
 
@@ -106,17 +106,17 @@ class TopCarousel extends React.Component {
 
         return (
             <div className="swipe-container">
-                {this.buildBG()}
-                {this. buildCarouselItems()}
+
                 <Swipeable
                     className="slider"
                     trackMouse
                     style={{touchAction: 'none', zIndex: 1000, cursor:"swipe"}}
                     preventDefaultTouchmoveEvent
                     onSwipedLeft={() => this.onSwiped(LEFT)}
-                    onSwipedRight={() => this.onSwiped(RIGHT)}
-                >
-                    <div style={imageStyles} className="image-style" id={"imageStyle"}>
+                    onSwipedRight={() => this.onSwiped(RIGHT)} >
+                    {this.buildBG()}
+                    {this. buildCarouselItems()}
+                    <div className="image-style" id={"imageStyle"}>
                         <label
                             onClick={() => this.onSwiped(RIGHT)}
                             className="float-left slider-control-bottomleft"

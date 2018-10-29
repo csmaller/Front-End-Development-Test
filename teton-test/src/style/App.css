@@ -124,7 +124,7 @@ body {
           .App .app-container .container-display .main .slider .slider-control-bottomright, .App .app-container .container-display .main .wtwslider .slider-control-bottomright {
             right: 40px; }
           .App .app-container .container-display .main .slider .slider-control-bottomleft, .App .app-container .container-display .main .wtwslider .slider-control-bottomleft {
-            left: 0px; }
+            left: 5px; }
 
 .background-images {
   width: auto;
@@ -142,9 +142,10 @@ body {
 .image-style {
   width: 375px;
   position: absolute;
-  height: 667px;
+  height: 200px;
   overflow-x: hidden;
-  left: 0px; }
+  left: 0px;
+  bottom: 0px; }
 
 .float-right {
   float: right !important; }
