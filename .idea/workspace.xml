@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d49c19c-ae74-406d-b35f-bcd640b0e61a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teton-test/src/component/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/teton-test/src/component/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teton-test/src/component/CarouselItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/teton-test/src/component/CarouselItem.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teton-test/src/component/TopCarousel.js" beforeDir="false" afterPath="$PROJECT_DIR$/teton-test/src/component/TopCarousel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teton-test/src/style/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/teton-test/src/style/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teton-test/src/style/App.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/teton-test/src/style/App.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teton-test/src/style/App.scss" beforeDir="false" afterPath="$PROJECT_DIR$/teton-test/src/style/App.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teton-test/src/style/carouselItem.css" beforeDir="false" afterPath="$PROJECT_DIR$/teton-test/src/style/carouselItem.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teton-test/src/style/carouselItem.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/teton-test/src/style/carouselItem.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teton-test/src/style/carouselItem.scss" beforeDir="false" afterPath="$PROJECT_DIR$/teton-test/src/style/carouselItem.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teton-test/src/style/nav.css" beforeDir="false" afterPath="$PROJECT_DIR$/teton-test/src/style/nav.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teton-test/src/style/nav.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/teton-test/src/style/nav.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teton-test/src/style/nav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/teton-test/src/style/nav.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teton-test/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/teton-test/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -64,7 +52,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CarouselItem.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CarouselItem.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/teton-test/src/component/CarouselItem.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="510">
@@ -72,6 +60,18 @@
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/teton-test/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="135">
+                <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -114,15 +114,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
               <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="wtw.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/teton-test/src/style/wtw.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1620">
-              <caret line="108" selection-start-line="108" selection-end-line="108" />
             </state>
           </provider>
         </entry>
@@ -181,6 +172,7 @@
         <option value="$PROJECT_DIR$/teton-test/src/component/App.js" />
         <option value="$PROJECT_DIR$/teton-test/src/style/carouselItem.scss" />
         <option value="$PROJECT_DIR$/teton-test/src/component/CarouselItem.js" />
+        <option value="$PROJECT_DIR$/teton-test/README.md" />
       </list>
     </option>
   </component>
@@ -361,12 +353,12 @@
       <option name="presentableId" value="Default" />
       <updated>1539972818681</updated>
       <workItem from="1539972821404" duration="84210000" />
-      <workItem from="1540850828907" duration="2209000" />
+      <workItem from="1540850828907" duration="2631000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86419000" />
+    <option name="totallyTimeSpent" value="86841000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="171" y="84" width="1680" height="960" extended-state="0" />
@@ -682,6 +674,16 @@
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teton-test/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="135">
+            <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
